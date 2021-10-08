@@ -6,5 +6,7 @@ int main()
 	char a='Y';
 	printf("%d\n",a);
 	
+	
+	
 }
 	
